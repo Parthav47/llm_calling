@@ -1,2 +1,2 @@
 # llm_calling
-A hands-on learning journal documenting my path from LLM basics to building production-ready AI applications — one week at a time.
+This repository tracks my 6-week intensive study plan to become internship-ready as an AI engineer. Each folder contains working code from that day's learning — not tutorials, actual builds. Covers prompt engineering, structured outputs, RAG pipelines, LangChain, LangGraph, and agentic systems.
